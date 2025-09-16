@@ -1,6 +1,7 @@
 body{
     display: flex;
     gap: 50px;
+
 }
 .text1{
    width: 500px;
@@ -40,4 +41,75 @@ body{
    background-image: url(https://img.transport.kg/photo/generation_photos/mercedes-benz_e-class_1135709.jpg);
    display: flex;
    margin: 0 auto;
+  
+
+}
+
+.homework-01{
+    width: 500px;
+    height: 300px;
+    border: 2px solid white;
+    border-radius: 16px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFh51BeHELRkv6ggFlJXqJqerXkNW3ABTaQ&s);
+    height: 200px;
+    box-shadow: 10px 10px 10px black;
+}
+.homework-01:hover{
+    transform: scale(1.1);
+     box-shadow: 20px 10px 20px red;
+}
+.homework-02{
+    width: 500px;
+    height: 300px;
+    border: 2px solid white;
+    border-radius: 16px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnkXX1msb3FcwUKdveOb4VJ_8dlsezqUlqEQ&s);
+  height: 200px;
+      box-shadow: 10px 10px 10px black;
+    
+}
+.homework-02:hover{
+    transform: scale(1.1);
+     box-shadow: 20px 10px 20px red;
+}
+.homework-03{
+    width: 500px;
+    height: 300px;
+    border: 2px solid white;
+    border-radius: 16px;
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aoZzcuQyQjq_AyiGGqOK9hHxvissw7T_yA&s);
+      height: 200px;
+          box-shadow: 10px 10px 10px black;
+}
+.homework-03:hover{
+    transform: scale(1.1);
+     box-shadow: 20px 10px 20px red;
+}
+.homework-04{
+    width: 500px;
+    height: 300px;
+    border: 2px solid white;
+    border-radius: 16px;
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pJXVXZJIBfMUDUbLCfui0hSdvVw3L6E-tw&s);
+      height: 200px;
+          box-shadow: 10px 10px 10px black;
+}
+.homework-04:hover{
+    transform: scale(1.1);
+     box-shadow: 20px 10px 20px red;
+}
+.homework-05{
+    width: 500px;
+    height: 300px;
+    border: 2px solid white;
+    border-radius: 16px;
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4RcCMLeRMOtqUXQppIxO8SE3IQxh6rbdYNA&s);
+      height: 200px;
+          box-shadow: 10px 10px 10px black;
+         
+}
+.homework-05:hover{
+    transform: scale(1.1);
+     box-shadow: 20px 10px 20px red;
+ 
 }
